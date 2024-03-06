@@ -25,18 +25,18 @@ author:
   name             : "Soham Chakraborty"
   pronouns         : # example: "she/her"  
   bio              : "Assistant Professor, Programming Languages Group"
-  location         : "Delft"
+ # location         : "Delft"
   employer         : "TU Delft"
   uri              : # URL
   email            : "s.s.chakraborty@tudelft.nl" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  googlescholar    : "https://scholar.google.com/citations?user=CJgbWuwAAAAJ"
+#  impactstory      : # URL
+  orcid            : "https://orcid.org/0000-0002-4454-2050"
+#  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+#  researchgate     : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
