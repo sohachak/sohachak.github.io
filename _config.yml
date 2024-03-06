@@ -24,11 +24,11 @@ author:
   avatar           : "soham.png"
   name             : "Soham Chakraborty"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Assistant Professor"
+  location         : "Delft"
+  employer         : "TU Delft"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "s.s.chakraborty@tudelft.nl" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
