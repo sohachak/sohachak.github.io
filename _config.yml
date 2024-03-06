@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Soham Chakraborty"
+title                    : ""
 title_separator          : "-"
 name                     : &name "Soham Sundar Chakraborty"
 description              : &description "personal description"
