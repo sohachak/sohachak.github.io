@@ -1,3 +1,12 @@
+---
+permalink: /
+title: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 I am an assistant professor in the Programming Languages Group at TU Delft. My research interests are programming languages, compilers, and verification with a focus on concurrency and weak memory consistency models.
 
 
